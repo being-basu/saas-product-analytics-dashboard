@@ -72,3 +72,8 @@ The dashboard runs on:
 
 ```
 ```
+## Screenshots
+
+![Dashboard Overview](screenshots/ss1.png)
+![Revenue Analytics](screenshots/ss2.png)
+![Signup Trend](screenshots/ss3.png)
